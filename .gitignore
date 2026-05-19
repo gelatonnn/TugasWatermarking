@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project output
+output/
+*.png
+*.jpg
+*.jpeg
+!docs/*.png
+!docs/*.jpg
+
+# Keep example image (uncomment & adjust if you want to track a sample)
+# !sample.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
