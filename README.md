@@ -52,10 +52,10 @@ pip install -r requirements.txt
 python main.py path/to/wajah.jpg
 
 # Atur parameter
-python main.py foto.jpg --delta 30 --wm-size 32
+python main.py wajah.jpg --delta 30 --wm-size 32
 
 # Jalankan tanpa menampilkan plot (hanya simpan ke file)
-python main.py foto.jpg --no-show
+python main.py wajah.jpg --no-show
 ```
 
 ### Parameter
